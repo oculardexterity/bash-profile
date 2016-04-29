@@ -24,4 +24,6 @@ eg:
 
 ```export PS1=$BGreen' '$PathFull' '$Color_Off$String```
 
+In terminal, you can choose Terminal > Preferences to change the defaul text and background colours.
 
+![Preferences](https://raw.githubusercontent.com/abbott567/bash-profile/screenshots/Screenshots/prefs.png?raw=true "Preferences")
