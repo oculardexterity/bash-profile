@@ -16,4 +16,12 @@ Alternatively you can edit it directly in the terminal with:
 
 ```nano ~/.bash_profile```
 
-Paste in the code from the bash profile in the repo.
+Paste in the code from the bash profile in the repo. To change the colour of the directories from CYAN, change BCYAN in the export to another colour from the list.
+
+```export PS1=$BCyan' '$PathFull' '$Color_Off$String```
+
+eg:
+
+```export PS1=$BGreen' '$PathFull' '$Color_Off$String```
+
+
