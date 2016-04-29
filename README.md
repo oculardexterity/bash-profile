@@ -15,3 +15,5 @@ You will need to open your .bash_profile in an editor of some description. If yo
 Alternatively you can edit it directly in the terminal with:
 
 ```nano ~/.bash_profile```
+
+Paste in the code from the bash profile in the repo.
