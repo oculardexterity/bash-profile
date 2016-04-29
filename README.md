@@ -1,4 +1,8 @@
-# Before you start
+### Modifying terminal to be more user and git friendly.
+
+![Terminal](https://raw.githubusercontent.com/abbott567/bash-profile/screenshots/Screenshots/terminal.png?raw=true "Terminal")
+
+# How To
 
 You will need to install git prompt. Run the following command in the terminal:
 
